@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "806292940238",
+    "project_id": "learnfirebase-ab274",
+    "storage_bucket": "learnfirebase-ab274.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:806292940238:android:f7829524518755f2cbf79f",
+        "android_client_info": {
+          "package_name": "com.example.chat3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "806292940238-kjvldms8m65uh3h6j2t7fvdmc7onqfet.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtHBSb91rHE3g0eSqzua-yrCpgN7FW-Bw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "806292940238-kjvldms8m65uh3h6j2t7fvdmc7onqfet.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "806292940238-5lqrbukgsovgnelc21ve9h2rpfr41r59.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.chat2.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
